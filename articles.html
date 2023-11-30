@@ -3,30 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Accueil - Mon Site d'Articles</title>
+    <title>Mon Site d'Articles</title>
+    <script src="https://kit.fontawesome.com/6635a06481.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="styles.css">
     <script src="script.js" type="application/javascript" defer></script>
 </head>
 <body>
     <header>
+    
         <div class="logo">
             <h1>Francis Bach</h1>
         </div>
         <nav>
-            <ul class="list">
+            <ul>
                 <li><a href="index.html">Accueil</a></li>
                 <li><a href="articles.html">Articles</a></li>
                 <li><a href="courses.html">Courses</a></li>
                 <li><a href="about.html">À propos</a></li>
             </ul>
         </nav>
-    </header>
+    </header>   
+    <p><input type="text" id="searchInput" placeholder="Recherche"></p>
 
-    <main>
-        <section class="welcome-section">
-            <h2>Bienvenue sur Mon Site d'Articles</h2>
-            <p>Explorez nos articles et trouvez l'information que vous recherchez.</p>
-        </section>
-    </main>
+    <div id="articleListContainer">
+        <!-- La liste d'articles sera affichée ici -->
+    </div>
+    <button id="scrollToTopBtn" onclick="scrollToTop()">
+        <i class="fa-solid fa-arrow-up"></i>
+    </button>
+
 </body>
 </html>

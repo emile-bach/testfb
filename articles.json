@@ -1,0 +1,188 @@
+[
+    {
+        "title": "Classifier Calibration with ROC-Regularized Isotonic Regression",
+        "authors": ["Eugene Berta","Francis Bach","Michael Jordan"],
+        "siteLink": "https://arxiv.org/pdf/2311.12436.pdf",
+        "venue":"Technical report, arXiv:2305.19473",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "On the Impact of Overparameterization on the Training of a Shallow Neural Network in High Dimensions",
+        "authors": ["Simon Martin","Francis Bach","Giulio Biroli"],
+        "siteLink": "https://arxiv.org/pdf/2311.03794.pdf",
+        "venue":"Technical report, arXiv: 2311.03794",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Regularization properties of adversarially-trained linear regression",
+        "authors": ["Antônio H. Ribeiro","Dave Zachariah","Francis Bach","Thomas B. Schön"],
+        "siteLink": "https://arxiv.org/pdf/2310.10807.pdf",
+        "venue":"Technical report, arXiv:2310.10807",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Going Deeper with Spectral Decompositions",
+        "authors": ["Vivien Cabannes","Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2306.00742.pdf",
+        "venue":"Technical report, arXiv:2306.00742",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Nonparametric Linear Feature Learning in Regression Through Regularisation",
+        "authors": ["Bertille Follain","Umut Simsekli","Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2307.12754.pdf",
+        "venue":"Technical report, arXiv:2307.12754",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Sum-of-squares relaxations for polynomial min-max problems over simple sets",
+        "authors": ["Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2306.14607.pdf",
+        "venue":"Technical report, arXiv:2306.14607",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Chain of Log-Concave Markov Chains",
+        "authors": ["Saeed Saremi", "Ji Won Park", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2305.19473.pdf",
+        "venue":"Technical report, arXiv:2305.19473",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "On the impact of activation and normalization in obtaining isometric embeddings at initialization",
+        "authors": ["Amir Joudaki", "Hadi Daneshmand", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2305.18399.pdf",
+        "venue":"Technical report, arXiv:2305.18399",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Differentiable Clustering with Perturbed Spanning Forests",
+        "authors": ["Lawrence Stewart" , "Francis Bach", "Felipe Llinares López", "Quentin Berthet"],
+        "siteLink": "https://arxiv.org/pdf/2305.16358.pdf",
+        "venue":"Technical report, arXiv: 2305.16358",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Universal Smoothed Score Functions for Generative Modeling",
+        "authors": ["Saeed Saremi", "Rupesh Kumar Srivastava", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2303.11669.pdf",
+        "venue":"Technical report, arXiv:2303.11669",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Variational principles for mirror descent and mirror Langevin dynamics",
+        "authors": ["Belinda Tzen", "Anant Raj","Maxim Raginsky", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2303.09532.pdf",
+        "venue": "IEEE Control Systems Letters, 7:1542-1547",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Convergence rates for non-log-concave sampling and log-partition estimation",
+        "authors": ["David Holzmüller", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2303.03237.pdf",
+        "venue":"Technical report, arXiv:2303.0323",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "High-dimensional analysis of double descent for linear regression with random projections",
+        "authors": ["Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2303.01372.pdf",
+        "venue":"Technical report, arXiv:2303.01372",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Kernelized diffusion maps",
+        "authors": ["Loucas Pillaud-Vivien", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2302.06757.pdf",
+        "venue":"Proceedings of the Conference on Learning Theory (COLT)",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Two losses are better than one: Faster optimization using a cheaper proxy",
+        "authors": ["Blake Woodworth", "Konstantin Mishchenko", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2302.03542.pdf",
+        "venue":"Proceedings of the International Conference on Machine Learning (ICML)",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "On the relationship between multivariate splines and infinitely-wide neural networks",
+        "authors": ["Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2302.03459.pdf",
+        "venue":"Technical report, arXiv:2302.03459",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Information theory with kernel methods",
+        "authors": ["Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2202.08545.pdf",
+        "venue":"IEEE Transactions in Information Theory, 69(2):752-775",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Exponential convergence of sum-of-squares hierarchies for trigonometric polynomials",
+        "authors": ["Francis Bach" , "Alessandro Rudi"],
+        "siteLink": "https://arxiv.org/pdf/2211.04889.pdf",
+        "venue":"SIAM Journal on Optimization, 33(3): 2137-2159",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Regression as classification: Influence of task formulation on neural network features",
+        "authors": ["Lawrence Stewart" , "Francis Bach", "Quentin Berthet", "Jean-Philippe Vert"],
+        "siteLink": "https://arxiv.org/pdf/2211.05641.pdf",
+        "venue":"Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS)",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "Explicit regularization in overparametrized models via noise injection",
+        "authors": ["Antonio Orvieto", "Anant Raj", "Hans Kersting", "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2206.04613.pdf",
+        "venue":"Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS)",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "A systematic approach to Lyapunov analyses of continuous-time models in convex optimization",
+        "authors": ["Céline Moucer" , "Adrien Taylor" , "Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2205.12772.pdf",
+        "venue":"SIAM Journal on Optimization, 33(3):1558-1586",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "The limited-memory recursive variational Gaussian approximation (L-RVGA)",
+        "authors": ["Marc Lambert","Silvère Bonnabel","Francis Bach"],
+        "siteLink": "https://arxiv.org/pdf/2303.14195.pdf",
+        "venue":"Statistics and Computing, 33",
+        "year": 2023,
+        "keywords": ["", ""]
+    },
+    {
+        "title": "A Simple convergence proof of Adam and Adagrad",
+        "authors": ["Alexandre Défossez","Léon Bottou", "Francis Bach", "Nicolas Usunier"],
+        "siteLink": "https://openreview.net/pdf?id=ZPQhzTSWA7",
+        "venue":"Transactions on Machine Learning Research",
+        "year": 2022,
+        "keywords": ["", ""]
+    }
+    
+    
+]
